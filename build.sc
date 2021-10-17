@@ -37,9 +37,9 @@ object demo extends SpinalModule with PublishModule {
     organization = "",
     url = "https://github.com/jijingg",
     licenses = Seq(License.`LGPL-3.0-or-later`),
-    versionControl = VersionControl.github("jijing.gjj"),
+    versionControl = VersionControl.github("jijing.gjj", "goco"),
     developers = Seq(
-      Developer("Jijing Guo", "goco.v@163.com")
+      Developer("Jijing Guo", "goco", "goco.v@163.com")
     )
   )
 }

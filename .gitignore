@@ -1,6 +1,7 @@
 *.class
 target/
 *~
-.dsp/
+.bsp/
 .idea/
+out/
 project/target/
